@@ -13,3 +13,18 @@ podczas pracy nad projektem.
 
 ## Nazewnictwo branchy
 Gałęzie powinny być tworzone według schematu:
+stolica-imie
+Przykład:
+madryt-jan
+
+## Zasady commitów
+- Commity powinny być krótkie i opisowe.
+- Jeden commit powinien dotyczyć jednego zakresu zmian.
+Przykłady poprawnych commitów:
+Dodanie opisu stolicy Madryt
+Poprawa struktury HTML
+
+## Komunikacja
+- Wszelkie propozycje zmian należy zgłaszać poprzez Pull Requesty na GitHubie.
+- Komentarze do Pull Requestów powinny jasno opisywać zakres wprowadzanych zmian.
+- W przypadku problemów zalecany jest kontakt poprzez system komentarzy GitHub.
